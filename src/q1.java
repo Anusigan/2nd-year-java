@@ -8,5 +8,10 @@ public static void main (String [] args){
         marks[i]=sc.nextInt();
     }
 
+    for(int i=0;i<marks.length;i++){
+        System.out.println(marks[i]);
+    }
+
+
 }
 }
