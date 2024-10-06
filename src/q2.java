@@ -29,6 +29,11 @@ public class q2 {
                 fifth+=1;
             }
         }
+        System.out.println("The number of marks equal and above 70 are: "+first);
+        System.out.println("The number of marks equal and above 60 are: "+second);
+        System.out.println("The number of marks equal and above 50 are: "+third);
+        System.out.println("The number of marks equal and above 40 are: "+fourth);
+        System.out.println("The number of marks below 40 are: "+fifth);
 
     }
 }

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32d834f2-0572-4dbd-9c72-6d84ab38b090" name="Changes" comment="excercises">
-      <change afterPath="$PROJECT_DIR$/src/q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728232223844</updated>
-      <workItem from="1728232224900" duration="706000" />
+      <workItem from="1728232224900" duration="1059000" />
     </task>
     <task id="LOCAL-00001" summary="excercises">
       <option name="closed" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728232668668</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="excercises">
+      <option name="closed" value="true" />
+      <created>1728233186233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728233186233</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
